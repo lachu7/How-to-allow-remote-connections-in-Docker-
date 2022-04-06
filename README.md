@@ -64,4 +64,5 @@ Now you can manage the docker of your first instance from your second instance. 
 
 ## Conclusion
 
-So this is how we establish or allow remote connections 
+So this is how we establish or allow remote connections in Docker. Hope my small piece of work will be useful to you all. 
+Thank you!
