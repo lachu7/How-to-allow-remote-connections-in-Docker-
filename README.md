@@ -4,7 +4,7 @@
 
 So before starting today's topic, let's have a quick look on what is Docker!!
 
-Containerization is a method which allows us to isolate and run processes. This means, the processes that run on a container will have its own isolation and restrictions.And,Docker is an open source containerization platform that allows us to easily create, deploy and run applications by using containers.
+Containerization is a method which allows us to isolate and run processes. This means, the processes that run on a container will have its own isolation and restrictions.And, Docker is an open source containerization platform that allows us to easily create, deploy and run applications by using containers.
 
 ## What are we gonna do today?
 
